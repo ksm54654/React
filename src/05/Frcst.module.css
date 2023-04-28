@@ -1,0 +1,43 @@
+/* button {
+    background-color: lightskyblue;
+} */
+
+.dt {
+    display: inline-flex;
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.dt1 {
+    display: inline-flex;
+    background-color: rgb(26, 106, 255);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.dt:hover {
+    background-color: rgba(26, 106, 255, 0.575);
+    color: white;
+}
+
+.it0, .it1 {
+    font-weight: bold;
+}
+
+.it11 {
+    color: blue;
+}
+
+.it12 {
+    color: green;
+}
+
+.it13 {
+    color: red;
+}
