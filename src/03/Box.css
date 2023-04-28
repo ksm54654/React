@@ -1,5 +1,9 @@
 #d1{
     display: inline-flex;
-    width: 90%;
+    width: 50%;
     justify-content: right;
+}
+
+#t1 {
+    background-color: lightskyblue;
 }
