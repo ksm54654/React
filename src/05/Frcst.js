@@ -10,7 +10,7 @@ const Frcst = () => {
     // dtKey.map((item) => console.log(data[item]));
     // cnKey.map((item) => console.log(data[item]));
 
-    // 오브젝트 만들기
+    // 오브젝트 만들기 
     let dtcn = {};
     dtKey.map((item, idx) => dtcn[data[item]] = data[cnKey[idx]]);
     console.log(dtcn);
