@@ -1,0 +1,23 @@
+.btDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btDiv > button {
+    margin-left: 5px;
+    background-color: rgb(78, 96, 255);
+}
+
+.title {
+    color: rgb(78, 96, 255);
+}
+
+.sp {
+    display: inline-flex;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(78, 96, 255);
+    color: white;
+}
