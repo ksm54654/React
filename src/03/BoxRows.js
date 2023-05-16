@@ -13,6 +13,8 @@ const BoxRows = ({ mv }) => {
     const showMv = (row) => {
         console.log(row)
         setFootTag(`[${row.movieCd}] ${row.movieNm} 개봉일 : ${row.openDt}`);    
+
+        
     }
 
     let trTags = [];
