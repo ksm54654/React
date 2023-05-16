@@ -75,7 +75,7 @@ const Taccident = () => {
             </article>
         </main>
     );
-        // 처음에는 값이 없으므로 selData && 를 넣어야함 !! 
+        // 처음에는 값이 없으므로 'selData &&' 를 넣어야함 !! 
 }
 
 export default Taccident;
