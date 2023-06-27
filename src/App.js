@@ -7,7 +7,13 @@ import './App.css';
 // import Taccident from './06/Taccident';
 // import MyRef from './07/MyRef';
 // import Gallery from './08/Gallery';
-import Gallery from './081/Gallery';
+// import Gallery from './081/Gallery';
+// import RouteMain from './09/RouteMain';
+// import Fcst from './10/Fcst';
+// import Fcst from './101/Fcst';
+import CodeView from './102/CodeView';
+// import Cnt from './11/Cnt';/
+// import Cnt from './111/Cnt';
 
 function App() {
   return (
@@ -18,7 +24,11 @@ function App() {
     // <Frcst />
     // <Taccident />
     // <MyRef />
-    <Gallery />
+    // <Gallery />
+    // <Fcst />
+    <CodeView />
+    // <Cnt />
+
   );
 }
 
